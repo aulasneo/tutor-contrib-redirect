@@ -19,7 +19,7 @@ Usage
 .. code-block:: bash
 
     tutor plugins enable redirect
-    tutor k8s start
+    tutor k8s launch
 
 By default, the subdomain redirected is ``www``. If you want something else, set ``REDIRECT_SUBDOMAIN``.
 

@@ -18,7 +18,7 @@ spec:
   - host: "{{ REDIRECT_SUBDOMAIN }}.{{ LMS_HOST }}"
   tls:
   - hosts:
-    - www.{{ LMS_HOST }}
+    - {{ REDIRECT_SUBDOMAIN }}.{{ LMS_HOST }}
     secretName: {{ REDIRECT_SUBDOMAIN }}-{{ LMS_HOST | replace(".", "-") }}-tls
 
 # End of tutor-contrib-redirect patch
