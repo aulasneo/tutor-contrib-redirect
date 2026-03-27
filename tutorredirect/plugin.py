@@ -16,7 +16,7 @@ hooks.Filters.CONFIG_DEFAULTS.add_items(
         # Each new setting is a pair: (setting_name, default_value).
         # Prefix your setting names with 'REDIRECT_'.
         ("REDIRECT_VERSION", __version__),
-        ("REDIRECT_SUBDOMAIN", 'www')
+        ("REDIRECT_SUBDOMAIN", "www"),
     ]
 )
 
