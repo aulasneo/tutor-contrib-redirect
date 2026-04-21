@@ -1,6 +1,6 @@
 # Change log
 
-## Unreleased
+## Version 21.0.0 (2026-04-21)
 - chore: add branding-style local dev and test automation via Makefile and requirements files
 - chore: replace legacy CI with branding-style test and publish GitHub workflows
 - chore: require Python 3.11+ in package metadata and modernize build configuration
