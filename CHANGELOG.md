@@ -1,6 +1,7 @@
 # Change log
 
 ## Unreleased
+- chore: add Tutor 21 / Ulmo compatibility metadata and dev dependency pins
 - chore: add branding-style local dev and test automation via Makefile and requirements files
 - chore: replace legacy CI with branding-style test and publish GitHub workflows
 - chore: require Python 3.11+ in package metadata and modernize build configuration

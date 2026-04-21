@@ -11,7 +11,7 @@ Installation
 
 .. code-block:: bash
 
-    pip install git+https://github.com/aulasneo/tutor-contrib-redirect.git
+    pip install tutor-contrib-redirect.git
 
 Usage
 *****
