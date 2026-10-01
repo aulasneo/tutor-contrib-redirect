@@ -1,6 +1,6 @@
 # Change log
 
-## Unreleased
+## Version 22.0.0 (2026-10-01)
 - feat: Upgrade to Tutor 22
 
 ## Version 21.0.1 (2026-04-21)
