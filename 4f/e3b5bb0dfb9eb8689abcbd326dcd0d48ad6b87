@@ -1,0 +1,37 @@
+.github/workflows/test.yml
+  s_9c926644a48cb6::t_31ef90d8f53478 33
+pyproject.toml
+  s_9c926644a48cb6::t_31ef90d8f53478 28-38
+  s_c8a0a5e4cc5cd8::t_c0dc943a2baac1 10,17,20-21,24
+.github/workflows/publish.yml
+  s_9c926644a48cb6::t_31ef90d8f53478 65,94
+Makefile
+  s_9c926644a48cb6::t_31ef90d8f53478 2,11-12,14,16-17
+  s_9c926644a48cb6::t_0166a3ca875713 15
+CHANGELOG.md
+  s_9c926644a48cb6::t_08e5373a43cd6f 3-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4fe3b5bb0dfb9eb8689abcbd326dcd0d48ad6b87",
+  "prompts": {},
+  "sessions": {
+    "s_9c926644a48cb6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a088ca-560f-7e61-8fa2-292949ceb2bd",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Andrés González <andres@aulasneo.com>"
+    },
+    "s_c8a0a5e4cc5cd8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "53ea0fac-3391-4ad5-88ef-4d41a9be47ad",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Andrés González <andres@aulasneo.com>"
+    }
+  }
+}
