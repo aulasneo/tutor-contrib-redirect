@@ -1,7 +1,7 @@
 # Change log
 
 ## Unreleased
-- feat: Upgrade to Verawood
+- feat: Upgrade to Tutor 22
 
 ## Version 21.0.1 (2026-04-21)
 - chore: add branding-style local dev and test automation via Makefile and requirements files
