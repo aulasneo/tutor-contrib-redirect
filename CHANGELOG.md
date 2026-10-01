@@ -1,5 +1,8 @@
 # Change log
 
+## Unreleased
+- feat: Upgrade to Verawood
+
 ## Version 21.0.1 (2026-04-21)
 - chore: add branding-style local dev and test automation via Makefile and requirements files
 - chore: replace legacy CI with branding-style test and publish GitHub workflows
