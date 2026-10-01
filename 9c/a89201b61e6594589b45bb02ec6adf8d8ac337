@@ -1,0 +1,22 @@
+.github/workflows/publish.yml
+  h_67430f944e00e2 12,48,65,94
+.github/workflows/test.yml
+  h_67430f944e00e2 13,16,33
+CHANGELOG.md
+  h_67430f944e00e2 3-4
+Makefile
+  h_67430f944e00e2 2,11-12,14-17
+pyproject.toml
+  h_67430f944e00e2 10,17,20-21,24,28-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9ca89201b61e6594589b45bb02ec6adf8d8ac337",
+  "prompts": {},
+  "humans": {
+    "h_67430f944e00e2": {
+      "author": "Andrés González <andres@aulasneo.com>"
+    }
+  }
+}
